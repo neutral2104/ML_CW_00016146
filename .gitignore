@@ -9,7 +9,3 @@ __pycache__/
 # DATA FILES
 WHR25_Data_Figure_2.1v3.csv
 
-# MODEL FILES
-model.joblib
-scaler.joblib
-feature_cols.json
